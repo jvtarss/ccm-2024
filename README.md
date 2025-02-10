@@ -1,7 +1,7 @@
 # Microbial communities diversity analysis in microbial fuel cells
 
 ## Overview
-Microbial fuel cells (MFCs) provide a sustainable solution for wastewater treatment and renewable energy generation, with their efficiency being highly dependent on microbial community composition, which varies considerably across effluent types and operational conditions. In this study, sequencing libraries of 16S rRNA amplicons were obtained from 227 samples across 30 published MFC studies.
+Microbial fuel cells (MFCs) provide a sustainable solution for wastewater treatment and renewable energy generation, with their efficiency being highly dependent on microbial community composition, which varies considerably across effluent types and operational conditions. In this study, sequencing libraries of 16S rRNA amplicons were obtained from 227 samples across 31 published MFC studies.
 
 ## Key findings
 - Dominant phyla: _Pseudomonadota_ (13.45%), _Bacteroidota_ (9.88%);
