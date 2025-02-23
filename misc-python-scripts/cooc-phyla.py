@@ -26,4 +26,4 @@ with open("cooc-phyla.txt", "w") as f:
     for phylum in sorted(common_phyla):
         f.write(f"{phylum}\n")
 
-print(f"Arquivo 'cooc-phyla.txt' criado com {len(common_phyla)} filos comuns.")
+print(f"arquivo 'cooc-phyla.txt' criado com {len(common_phyla)} filos comuns.")
